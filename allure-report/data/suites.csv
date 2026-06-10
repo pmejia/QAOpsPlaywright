@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","16100","@Web Client App Login","","2026-05-08","passed","2026-05-08","","ClientAppPO.spec.js","",""
+"","20027","@Web Popup validation","","2026-05-08","passed","2026-05-08","","MoreValidations.spec.js","",""
+"","16254","@Web Browser Context Playwright test","","2026-05-08","passed","2026-05-08","","UIBasicstest.spec.js","",""
+"","5945","@Web UI Controls","","2026-05-08","passed","2026-05-08","","UIBasicstest.spec.js","",""
