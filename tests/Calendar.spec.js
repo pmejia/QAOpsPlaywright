@@ -19,6 +19,7 @@ test("Calendar validations", async ({page})=>
     const hiddenValue = await page.locator('input[name="date"]').inputValue();
     expect(hiddenValue).toBe(fecha);
    //await expect(page.getByText(fecha)).toBeVisible();
+   //Calendar test changes en pao_fixes branch
 
 
 })
