@@ -8,7 +8,7 @@ import { trace } from 'node:console';
  */
 const config=({
   testDir: './tests',
-  retries: 2,
+  retries: 0,
 
   timeout: 30*1000,
   expect:{
